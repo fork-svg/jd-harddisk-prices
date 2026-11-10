@@ -28,12 +28,48 @@
       "enabled": true
     },
     {
+      "id": "100098264478",
+      "name": "西部数据(Western Digital) 8TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "8TB",
+      "url": "https://item.jd.com/100098264478.html",
+      "enabled": true
+    },
+    {
+      "id": "100012345678",
+      "name": "西部数据(Western Digital) 16TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "16TB",
+      "url": "https://item.jd.com/100012345678.html",
+      "enabled": true
+    },
+    {
       "id": "100008915050",
       "name": "希捷(Seagate) 4TB 酷鹰监控级",
       "category": "机械硬盘",
       "brand": "希捷",
       "capacity": "4TB",
       "url": "https://item.jd.com/100008915050.html",
+      "enabled": true
+    },
+    {
+      "id": "100098264479",
+      "name": "希捷(Seagate) 8TB 酷鹰监控级",
+      "category": "机械硬盘",
+      "brand": "希捷",
+      "capacity": "8TB",
+      "url": "https://item.jd.com/100098264479.html",
+      "enabled": true
+    },
+    {
+      "id": "100012345679",
+      "name": "希捷(Seagate) 16TB 酷鹰监控级",
+      "category": "机械硬盘",
+      "brand": "希捷",
+      "capacity": "16TB",
+      "url": "https://item.jd.com/100012345679.html",
       "enabled": true
     },
     {
@@ -62,8 +98,17 @@
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043980.html",
       "enabled": true
+    },
+    {
+      "id": "100098264480",
+      "name": "三星(SAMSUNG) 4TB SSD 870 EVO",
+      "category": "固态硬盘",
+      "brand": "三星",
+      "capacity": "4TB",
+      "url": "https://item.jd.com/100098264480.html",
+      "enabled": true
     }
   ],
   "categories": ["机械硬盘", "固态硬盘"],
-  "last_updated": "2026-11-09"
+  "last_updated": "2026-11-10"
 }
