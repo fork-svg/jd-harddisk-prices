@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-10",
+  "timestamp": "2026-11-10T06:37:46.423929",
+  "source": "simulated",
+  "products": [
+    {
+      "id": "100012043938",
+      "name": "西部数据(Western Digital) 4TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "4TB",
+      "url": "https://item.jd.com/100012043938.html",
+      "price": 655.05,
+      "original_price": 786.71,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100008915038",
+      "name": "西部数据(Western Digital) 2TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "2TB",
+      "url": "https://item.jd.com/100008915038.html",
+      "price": 396.97,
+      "original_price": 504.16,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100012043934",
+      "name": "西部数据(Western Digital) 6TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "6TB",
+      "url": "https://item.jd.com/100012043934.html",
+      "price": 982.93,
+      "original_price": 1148.27,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100008915050",
+      "name": "希捷(Seagate) 4TB 酷鹰监控级",
+      "category": "机械硬盘",
+      "brand": "希捷",
+      "capacity": "4TB",
+      "url": "https://item.jd.com/100008915050.html",
+      "price": 691.97,
+      "original_price": null,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100012043960",
+      "name": "三星(SAMSUNG) 1TB SSD 970 EVO Plus",
+      "category": "固态硬盘",
+      "brand": "三星",
+      "capacity": "1TB",
+      "url": "https://item.jd.com/100012043960.html",
+      "price": 821.11,
+      "original_price": 1045.65,
+      "in_stock": true,
+      "coupon": 49.16,
+      "promotion": null
+    },
+    {
+      "id": "100012043962",
+      "name": "三星(SAMSUNG) 2TB SSD 970 EVO Plus",
+      "category": "固态硬盘",
+      "brand": "三星",
+      "capacity": "2TB",
+      "url": "https://item.jd.com/100012043962.html",
+      "price": 1575.1,
+      "original_price": 1901.37,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100012043980",
+      "name": "西部数据(Western Digital) 1TB SSD Blue SN570",
+      "category": "固态硬盘",
+      "brand": "西部数据",
+      "capacity": "1TB",
+      "url": "https://item.jd.com/100012043980.html",
+      "price": 638.33,
+      "original_price": null,
+      "in_stock": true,
+      "coupon": 15.56,
+      "promotion": null
+    }
+  ]
+}
