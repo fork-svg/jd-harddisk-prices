@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "timestamp": "2026-11-10T06:38:57.179870",
+  "timestamp": "2026-11-10T07:15:31.275311",
   "source": "simulated",
   "products": [
     {
@@ -10,10 +10,10 @@
       "brand": "西部数据",
       "capacity": "4TB",
       "url": "https://item.jd.com/100012043938.html",
-      "price": 640.78,
-      "original_price": 747.17,
+      "price": 625.03,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 14.26,
+      "coupon": 10.99,
       "promotion": null
     },
     {
@@ -23,8 +23,8 @@
       "brand": "西部数据",
       "capacity": "2TB",
       "url": "https://item.jd.com/100008915038.html",
-      "price": 376.13,
-      "original_price": null,
+      "price": 353.66,
+      "original_price": 390.85,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -36,8 +36,34 @@
       "brand": "西部数据",
       "capacity": "6TB",
       "url": "https://item.jd.com/100012043934.html",
-      "price": 913.37,
-      "original_price": 1101.03,
+      "price": 901.43,
+      "original_price": 998.37,
+      "in_stock": true,
+      "coupon": 48.51,
+      "promotion": null
+    },
+    {
+      "id": "100098264478",
+      "name": "西部数据(Western Digital) 8TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "8TB",
+      "url": "https://item.jd.com/100098264478.html",
+      "price": 1497.87,
+      "original_price": 1862.21,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": "会员专享价"
+    },
+    {
+      "id": "100012345678",
+      "name": "西部数据(Western Digital) 16TB 蓝盘",
+      "category": "机械硬盘",
+      "brand": "西部数据",
+      "capacity": "16TB",
+      "url": "https://item.jd.com/100012345678.html",
+      "price": 2779.94,
+      "original_price": 3309.61,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -49,11 +75,37 @@
       "brand": "希捷",
       "capacity": "4TB",
       "url": "https://item.jd.com/100008915050.html",
-      "price": 728.86,
-      "original_price": 945.99,
+      "price": 748.89,
+      "original_price": 915.92,
       "in_stock": true,
-      "coupon": 28.67,
-      "promotion": "满减活动"
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100098264479",
+      "name": "希捷(Seagate) 8TB 酷鹰监控级",
+      "category": "机械硬盘",
+      "brand": "希捷",
+      "capacity": "8TB",
+      "url": "https://item.jd.com/100098264479.html",
+      "price": 1494.19,
+      "original_price": null,
+      "in_stock": true,
+      "coupon": 22.11,
+      "promotion": null
+    },
+    {
+      "id": "100012345679",
+      "name": "希捷(Seagate) 16TB 酷鹰监控级",
+      "category": "机械硬盘",
+      "brand": "希捷",
+      "capacity": "16TB",
+      "url": "https://item.jd.com/100012345679.html",
+      "price": 2869.6,
+      "original_price": 3708.95,
+      "in_stock": true,
+      "coupon": 11.27,
+      "promotion": null
     },
     {
       "id": "100012043960",
@@ -62,11 +114,11 @@
       "brand": "三星",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043960.html",
-      "price": 877.11,
+      "price": 818.44,
       "original_price": null,
       "in_stock": true,
       "coupon": null,
-      "promotion": "限时折扣"
+      "promotion": null
     },
     {
       "id": "100012043962",
@@ -75,11 +127,11 @@
       "brand": "三星",
       "capacity": "2TB",
       "url": "https://item.jd.com/100012043962.html",
-      "price": 1662.91,
-      "original_price": 2092.91,
+      "price": 1598.05,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 20.26,
-      "promotion": null
+      "coupon": null,
+      "promotion": "满减活动"
     },
     {
       "id": "100012043980",
@@ -88,8 +140,21 @@
       "brand": "西部数据",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043980.html",
-      "price": 634.27,
-      "original_price": 738.72,
+      "price": 561.71,
+      "original_price": null,
+      "in_stock": true,
+      "coupon": null,
+      "promotion": null
+    },
+    {
+      "id": "100098264480",
+      "name": "三星(SAMSUNG) 4TB SSD 870 EVO",
+      "category": "固态硬盘",
+      "brand": "三星",
+      "capacity": "4TB",
+      "url": "https://item.jd.com/100098264480.html",
+      "price": 3221.8,
+      "original_price": null,
       "in_stock": true,
       "coupon": null,
       "promotion": null
