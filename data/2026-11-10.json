@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "timestamp": "2026-11-10T07:15:31.275311",
+  "timestamp": "2026-11-10T07:39:12.859544",
   "source": "simulated",
   "products": [
     {
@@ -10,10 +10,10 @@
       "brand": "西部数据",
       "capacity": "4TB",
       "url": "https://item.jd.com/100012043938.html",
-      "price": 625.03,
-      "original_price": null,
+      "price": 632.85,
+      "original_price": 754.33,
       "in_stock": true,
-      "coupon": 10.99,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -23,8 +23,8 @@
       "brand": "西部数据",
       "capacity": "2TB",
       "url": "https://item.jd.com/100008915038.html",
-      "price": 353.66,
-      "original_price": 390.85,
+      "price": 352.98,
+      "original_price": 427.35,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -36,10 +36,10 @@
       "brand": "西部数据",
       "capacity": "6TB",
       "url": "https://item.jd.com/100012043934.html",
-      "price": 901.43,
-      "original_price": 998.37,
+      "price": 956.7,
+      "original_price": 1122.09,
       "in_stock": true,
-      "coupon": 48.51,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -49,11 +49,11 @@
       "brand": "西部数据",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264478.html",
-      "price": 1497.87,
-      "original_price": 1862.21,
+      "price": 1472.6,
+      "original_price": null,
       "in_stock": true,
       "coupon": null,
-      "promotion": "会员专享价"
+      "promotion": null
     },
     {
       "id": "100012345678",
@@ -62,8 +62,8 @@
       "brand": "西部数据",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345678.html",
-      "price": 2779.94,
-      "original_price": 3309.61,
+      "price": 2717.84,
+      "original_price": 3248.63,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -75,10 +75,10 @@
       "brand": "希捷",
       "capacity": "4TB",
       "url": "https://item.jd.com/100008915050.html",
-      "price": 748.89,
-      "original_price": 915.92,
+      "price": 691.17,
+      "original_price": null,
       "in_stock": true,
-      "coupon": null,
+      "coupon": 22.24,
       "promotion": null
     },
     {
@@ -88,10 +88,10 @@
       "brand": "希捷",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264479.html",
-      "price": 1494.19,
-      "original_price": null,
+      "price": 1529.6,
+      "original_price": 1891.29,
       "in_stock": true,
-      "coupon": 22.11,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -101,10 +101,10 @@
       "brand": "希捷",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345679.html",
-      "price": 2869.6,
-      "original_price": 3708.95,
+      "price": 3081.02,
+      "original_price": 3531.85,
       "in_stock": true,
-      "coupon": 11.27,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -114,7 +114,7 @@
       "brand": "三星",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043960.html",
-      "price": 818.44,
+      "price": 824.71,
       "original_price": null,
       "in_stock": true,
       "coupon": null,
@@ -127,11 +127,11 @@
       "brand": "三星",
       "capacity": "2TB",
       "url": "https://item.jd.com/100012043962.html",
-      "price": 1598.05,
+      "price": 1667.25,
       "original_price": null,
       "in_stock": true,
       "coupon": null,
-      "promotion": "满减活动"
+      "promotion": null
     },
     {
       "id": "100012043980",
@@ -140,11 +140,11 @@
       "brand": "西部数据",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043980.html",
-      "price": 561.71,
+      "price": 550.21,
       "original_price": null,
       "in_stock": true,
-      "coupon": null,
-      "promotion": null
+      "coupon": 47.23,
+      "promotion": "闪购特价"
     },
     {
       "id": "100098264480",
@@ -153,9 +153,9 @@
       "brand": "三星",
       "capacity": "4TB",
       "url": "https://item.jd.com/100098264480.html",
-      "price": 3221.8,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
+      "in_stock": false,
       "coupon": null,
       "promotion": null
     }
