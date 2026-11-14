@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "timestamp": "2026-11-14T08:33:04.318287",
+  "timestamp": "2026-11-14T17:38:15.310409",
   "source": "simulated",
   "products": [
     {
@@ -10,11 +10,11 @@
       "brand": "西部数据",
       "capacity": "4TB",
       "url": "https://item.jd.com/100012043938.html",
-      "price": 637.12,
-      "original_price": null,
+      "price": 608.46,
+      "original_price": 717.97,
       "in_stock": true,
       "coupon": null,
-      "promotion": null
+      "promotion": "闪购特价"
     },
     {
       "id": "100008915038",
@@ -23,8 +23,8 @@
       "brand": "西部数据",
       "capacity": "2TB",
       "url": "https://item.jd.com/100008915038.html",
-      "price": 357.28,
-      "original_price": null,
+      "price": 362.83,
+      "original_price": 433.4,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -36,7 +36,7 @@
       "brand": "西部数据",
       "capacity": "6TB",
       "url": "https://item.jd.com/100012043934.html",
-      "price": 960.7,
+      "price": 976.84,
       "original_price": null,
       "in_stock": true,
       "coupon": null,
@@ -49,10 +49,10 @@
       "brand": "西部数据",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264478.html",
-      "price": 1430.32,
-      "original_price": 1852.65,
-      "in_stock": true,
-      "coupon": 29.61,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -62,11 +62,11 @@
       "brand": "西部数据",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345678.html",
-      "price": 2874.05,
-      "original_price": 3238.45,
+      "price": 2859.04,
+      "original_price": null,
       "in_stock": true,
       "coupon": null,
-      "promotion": null
+      "promotion": "限时折扣"
     },
     {
       "id": "100008915050",
@@ -75,8 +75,8 @@
       "brand": "希捷",
       "capacity": "4TB",
       "url": "https://item.jd.com/100008915050.html",
-      "price": 662.92,
-      "original_price": 785.47,
+      "price": 656.39,
+      "original_price": 767.18,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -88,11 +88,11 @@
       "brand": "希捷",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264479.html",
-      "price": 1533.6,
+      "price": 1486.79,
       "original_price": null,
       "in_stock": true,
       "coupon": null,
-      "promotion": "会员专享价"
+      "promotion": "闪购特价"
     },
     {
       "id": "100012345679",
@@ -101,8 +101,8 @@
       "brand": "希捷",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345679.html",
-      "price": 3071.54,
-      "original_price": 3891.72,
+      "price": 2955.66,
+      "original_price": null,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -114,10 +114,10 @@
       "brand": "三星",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043960.html",
-      "price": 824.33,
-      "original_price": 989.56,
+      "price": 808.49,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 35.33,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -127,11 +127,11 @@
       "brand": "三星",
       "capacity": "2TB",
       "url": "https://item.jd.com/100012043962.html",
-      "price": 1553.96,
+      "price": 1520.17,
       "original_price": null,
       "in_stock": true,
-      "coupon": 26.86,
-      "promotion": "闪购特价"
+      "coupon": 28.91,
+      "promotion": null
     },
     {
       "id": "100012043980",
@@ -140,8 +140,8 @@
       "brand": "西部数据",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043980.html",
-      "price": 628.2,
-      "original_price": null,
+      "price": 600.57,
+      "original_price": 696.39,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -153,10 +153,10 @@
       "brand": "三星",
       "capacity": "4TB",
       "url": "https://item.jd.com/100098264480.html",
-      "price": 3277.36,
-      "original_price": null,
+      "price": 3085.15,
+      "original_price": 3602.33,
       "in_stock": true,
-      "coupon": 20.65,
+      "coupon": 44.9,
       "promotion": null
     }
   ]
