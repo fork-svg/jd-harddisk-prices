@@ -1,6 +1,6 @@
 # 京东硬盘价格监控
 
-## 最新价格 (2026-11-20)
+## 最新价格 (2026-11-21)
 
 **数据来源**: 模拟数据（京东有反爬机制，需要接入真实 API）
 
@@ -8,23 +8,23 @@
 
 | 产品 | 容量 | 当前价格 | 原价 | 优惠 | 状态 |
 |------|------|----------|------|------|------|
-| [西部数据(Western Digital) 4TB 蓝盘](https://item.jd.com/100012043938.html) | 4TB | ¥672.76 | ~~¥805.76~~ | 券¥31 | ✅ 有货 |
-| [西部数据(Western Digital) 2TB 蓝盘](https://item.jd.com/100008915038.html) | 2TB | ¥386.12 | - | - | ✅ 有货 |
-| [西部数据(Western Digital) 6TB 蓝盘](https://item.jd.com/100012043934.html) | 6TB | ¥926.78 | - | - | ✅ 有货 |
-| [西部数据(Western Digital) 8TB 蓝盘](https://item.jd.com/100098264478.html) | 8TB | ¥1446.14 | ~~¥1658.14~~ | 券¥28 | ✅ 有货 |
-| [西部数据(Western Digital) 16TB 蓝盘](https://item.jd.com/100012345678.html) | 16TB | ¥2696.78 | - | - | ✅ 有货 |
-| [希捷(Seagate) 4TB 酷鹰监控级](https://item.jd.com/100008915050.html) | 4TB | ¥678.46 | ~~¥779.15~~ | - | ✅ 有货 |
-| [希捷(Seagate) 8TB 酷鹰监控级](https://item.jd.com/100098264479.html) | 8TB | ¥1433.46 | ~~¥1639.92~~ | - | ✅ 有货 |
-| [希捷(Seagate) 16TB 酷鹰监控级](https://item.jd.com/100012345679.html) | 16TB | ¥2967.67 | ~~¥3516.45~~ | - | ✅ 有货 |
+| [西部数据(Western Digital) 4TB 蓝盘](https://item.jd.com/100012043938.html) | 4TB | - | - | - | ❌ 缺货 |
+| [西部数据(Western Digital) 2TB 蓝盘](https://item.jd.com/100008915038.html) | 2TB | ¥349.64 | - | - | ✅ 有货 |
+| [西部数据(Western Digital) 6TB 蓝盘](https://item.jd.com/100012043934.html) | 6TB | ¥988.54 | ~~¥1263.24~~ | 券¥19 | ✅ 有货 |
+| [西部数据(Western Digital) 8TB 蓝盘](https://item.jd.com/100098264478.html) | 8TB | - | - | - | ❌ 缺货 |
+| [西部数据(Western Digital) 16TB 蓝盘](https://item.jd.com/100012345678.html) | 16TB | ¥2756.00 | - | 券¥40 | ✅ 有货 |
+| [希捷(Seagate) 4TB 酷鹰监控级](https://item.jd.com/100008915050.html) | 4TB | ¥692.76 | - | 券¥33 | ✅ 有货 |
+| [希捷(Seagate) 8TB 酷鹰监控级](https://item.jd.com/100098264479.html) | 8TB | ¥1544.72 | ~~¥1866.33~~ | - | ✅ 有货 |
+| [希捷(Seagate) 16TB 酷鹰监控级](https://item.jd.com/100012345679.html) | 16TB | ¥2805.39 | - | 券¥12 | ✅ 有货 |
 
 ### 固态硬盘
 
 | 产品 | 容量 | 当前价格 | 原价 | 优惠 | 状态 |
 |------|------|----------|------|------|------|
-| [三星(SAMSUNG) 1TB SSD 970 EVO Plus](https://item.jd.com/100012043960.html) | 1TB | ¥864.12 | ~~¥988.33~~ | - | ✅ 有货 |
-| [三星(SAMSUNG) 2TB SSD 970 EVO Plus](https://item.jd.com/100012043962.html) | 2TB | ¥1523.17 | ~~¥1689.83~~ | - | ✅ 有货 |
-| [西部数据(Western Digital) 1TB SSD Blue SN570](https://item.jd.com/100012043980.html) | 1TB | - | - | - | ❌ 缺货 |
-| [三星(SAMSUNG) 4TB SSD 870 EVO](https://item.jd.com/100098264480.html) | 4TB | ¥3175.42 | - | 会员专享价 | ✅ 有货 |
+| [三星(SAMSUNG) 1TB SSD 970 EVO Plus](https://item.jd.com/100012043960.html) | 1TB | ¥802.48 | ~~¥994.79~~ | 券¥27 | ✅ 有货 |
+| [三星(SAMSUNG) 2TB SSD 970 EVO Plus](https://item.jd.com/100012043962.html) | 2TB | ¥1499.31 | ~~¥1803.57~~ | 券¥40 | ✅ 有货 |
+| [西部数据(Western Digital) 1TB SSD Blue SN570](https://item.jd.com/100012043980.html) | 1TB | ¥561.35 | ~~¥618.61~~ | - | ✅ 有货 |
+| [三星(SAMSUNG) 4TB SSD 870 EVO](https://item.jd.com/100098264480.html) | 4TB | ¥3102.99 | - | - | ✅ 有货 |
 
 ---
 
@@ -50,4 +50,4 @@
 
 ---
 
-*最后更新: 2026-11-20 19:35:57*
+*最后更新: 2026-11-21 09:10:16*
