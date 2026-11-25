@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "timestamp": "2026-11-25T10:50:41.690967",
+  "timestamp": "2026-11-25T21:00:24.378224",
   "source": "simulated",
   "products": [
     {
@@ -10,10 +10,10 @@
       "brand": "西部数据",
       "capacity": "4TB",
       "url": "https://item.jd.com/100012043938.html",
-      "price": 613.37,
-      "original_price": 789.29,
+      "price": 666.51,
+      "original_price": null,
       "in_stock": true,
-      "coupon": 32.19,
+      "coupon": null,
       "promotion": null
     },
     {
@@ -23,11 +23,11 @@
       "brand": "西部数据",
       "capacity": "2TB",
       "url": "https://item.jd.com/100008915038.html",
-      "price": 352.03,
-      "original_price": null,
+      "price": 372.62,
+      "original_price": 463.39,
       "in_stock": true,
-      "coupon": null,
-      "promotion": null
+      "coupon": 18.54,
+      "promotion": "闪购特价"
     },
     {
       "id": "100012043934",
@@ -36,10 +36,10 @@
       "brand": "西部数据",
       "capacity": "6TB",
       "url": "https://item.jd.com/100012043934.html",
-      "price": 974.62,
+      "price": 909.91,
       "original_price": null,
       "in_stock": true,
-      "coupon": 36.53,
+      "coupon": 24.47,
       "promotion": null
     },
     {
@@ -49,11 +49,11 @@
       "brand": "西部数据",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264478.html",
-      "price": 1489.64,
-      "original_price": 1740.42,
-      "in_stock": true,
+      "price": null,
+      "original_price": null,
+      "in_stock": false,
       "coupon": null,
-      "promotion": "限时折扣"
+      "promotion": null
     },
     {
       "id": "100012345678",
@@ -62,11 +62,11 @@
       "brand": "西部数据",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345678.html",
-      "price": 2722.97,
-      "original_price": 3435.65,
+      "price": 2783.98,
+      "original_price": 3273.73,
       "in_stock": true,
       "coupon": null,
-      "promotion": "限时折扣"
+      "promotion": null
     },
     {
       "id": "100008915050",
@@ -75,8 +75,8 @@
       "brand": "希捷",
       "capacity": "4TB",
       "url": "https://item.jd.com/100008915050.html",
-      "price": 683.48,
-      "original_price": null,
+      "price": 689.23,
+      "original_price": 794.65,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -88,10 +88,10 @@
       "brand": "希捷",
       "capacity": "8TB",
       "url": "https://item.jd.com/100098264479.html",
-      "price": 1492.79,
-      "original_price": null,
+      "price": 1416.47,
+      "original_price": 1715.64,
       "in_stock": true,
-      "coupon": null,
+      "coupon": 22.61,
       "promotion": null
     },
     {
@@ -101,9 +101,9 @@
       "brand": "希捷",
       "capacity": "16TB",
       "url": "https://item.jd.com/100012345679.html",
-      "price": null,
+      "price": 3066.28,
       "original_price": null,
-      "in_stock": false,
+      "in_stock": true,
       "coupon": null,
       "promotion": null
     },
@@ -114,8 +114,8 @@
       "brand": "三星",
       "capacity": "1TB",
       "url": "https://item.jd.com/100012043960.html",
-      "price": 818.31,
-      "original_price": 950.75,
+      "price": 839.02,
+      "original_price": null,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -127,8 +127,8 @@
       "brand": "三星",
       "capacity": "2TB",
       "url": "https://item.jd.com/100012043962.html",
-      "price": 1606.41,
-      "original_price": 1949.26,
+      "price": 1586.0,
+      "original_price": 1989.86,
       "in_stock": true,
       "coupon": null,
       "promotion": null
@@ -153,9 +153,9 @@
       "brand": "三星",
       "capacity": "4TB",
       "url": "https://item.jd.com/100098264480.html",
-      "price": 3005.4,
+      "price": null,
       "original_price": null,
-      "in_stock": true,
+      "in_stock": false,
       "coupon": null,
       "promotion": null
     }
